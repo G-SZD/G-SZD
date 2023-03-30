@@ -1,7 +1,7 @@
 - 👋 Hi, I am @ Dániel Gönczöl-Szabó[G-SZD]
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on with other students at Progmatic.
+- 💞️ I’m looking to collaborate on with other students at IEC KFT.
 - 📫 You can reach me dgonczolszabo@gmail.com or on Facebook.
 
 <!---
